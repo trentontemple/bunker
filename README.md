@@ -1,4 +1,6 @@
 # bunkerized-nginx
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftrentontemple%2Fbunker.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftrentontemple%2Fbunker?ref=badge_shield)
+
 
 <img src="https://github.com/bunkerity/bunkerized-nginx/blob/master/logo.png?raw=true" width="425" />
 
@@ -742,3 +744,7 @@ You just need to use a volume like this :
 ```
 docker run ... -v /path/to/http/confs:/http-confs ... bunkerity/bunkerized-nginx
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftrentontemple%2Fbunker.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftrentontemple%2Fbunker?ref=badge_large)
